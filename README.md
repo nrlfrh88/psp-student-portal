@@ -11,3 +11,6 @@ DFP40443 Full Stack Web Development, Politeknik Seberang Perai
 1. Import database/portal_psp.sql into MySQL
 2. Edit model/conn.php with your database details
 3. Open index.php in the browser
+
+## Live Website
+https://studentportalpsp.infinityfreeapp.com
